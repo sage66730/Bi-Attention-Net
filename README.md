@@ -14,7 +14,7 @@ Spatial attention block and Channel attention block in Overall
 
 # Experiment and Results:  
 Comparison with other works in CityScapes evaluation set (training batch size=4):  
-A|Mean-IoU(%)|FPS(frame)
+Model|Mean-IoU(%)|FPS(frame)
 --- | --- | ---
 ENet|58.3|76.9
 ESPNet|60.36|67.56
